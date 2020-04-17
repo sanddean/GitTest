@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+    func func1() {
+        var a = 1
+        var b = 2
+    }
 
 
 }
