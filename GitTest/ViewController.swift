@@ -19,6 +19,5 @@ class ViewController: UIViewController {
         var b = 2
     }
 
-
 }
 
